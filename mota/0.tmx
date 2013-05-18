@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="13" height="13" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="terrain" tilewidth="32" tileheight="32">
+  <image source="terrain.png" width="64" height="32"/>
+ </tileset>
+ <layer name="floor" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gQYwDjGACq
+  </data>
+ </layer>
+ <layer name="wall" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAPMCHRhDC6HnQ2LrOx2YPNTmL14BLDp5+Q27C5A18YYAPY1OCzB1e4kmIPrjDA5R9i9eALD3IBAMYcAJc=
+  </data>
+ </layer>
+</map>
